@@ -1,0 +1,8 @@
+- Modulo de Transacoes
+	- Contas a receber
+	- Entrada de produtos industrializados
+	- Contas a pagar
+
+- Modulo de Feedback
+
+- Modulo de Importacao/exportacao de dados
